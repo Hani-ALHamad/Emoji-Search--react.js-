@@ -3,7 +3,7 @@
 # • Link: https://hani-alhamad-react-emoji-search.netlify.app/
 
 • The API i used: https://emoji-api.com/   
-• Features:   
+• Features:
 - Indicates which category you're at.   
 - Clicking on any category icon scrolls down to it.   
 - Search box (uses api).   
